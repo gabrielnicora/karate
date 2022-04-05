@@ -1,0 +1,16 @@
+{
+  "red": {},
+  "int": {
+    "insuranceEditCancelationReasonInexistente": "620e471bf05e580e5dcb2eab",
+    "insuranceEditCancelationReason": "620ba66213dc9533d24b8e29",
+    "insuranceSecondCancelationReason": "620badfb96eba0792f240bd1"
+  },
+  "green": {
+    "insuranceEditCancelationReasonInexistente": "620e471bf05e580e5dcb2eab",
+    "insuranceEditCancelationReason": "620ba66213dc9533d24b8e29",
+    "insuranceSecondCancelationReason": "620b9633488980c23b98b91d"
+  },
+  "uat": {},
+  "cyan": {},
+  "yellow": {}
+}
